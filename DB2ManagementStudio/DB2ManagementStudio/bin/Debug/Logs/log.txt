@@ -1,0 +1,213 @@
+
+[4/7/2022 1:21:05 PM] SQL0204 CETCUSTF in TESTNL type *FILE not found.
+[4/7/2022 1:21:12 PM] SQL0204 CETCUSTF in TESTNL type *FILE not found.
+[4/20/2022 9:21:04 AM] SQL0204 LUMADRVRF in IBM_ODBC type *FILE not found.
+[4/20/2022 9:21:12 AM] SQL0204 LUMADRVRF in IBM_ODBC type *FILE not found.
+[4/20/2022 10:49:19 AM] SQL0199 Keyword SELECT not expected. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/20/2022 10:49:21 AM] SQL0199 Keyword SELECT not expected. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/20/2022 10:49:33 AM] SQL0199 Keyword SELECT not expected. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 9:23:32 AM] SQL0204 LUMADRVRF in IBM_ODBC type *FILE not found.
+[4/21/2022 10:49:37 AM] SQL0104 Token ? was not valid. Valid tokens: <IDENTIFIER>.
+[4/21/2022 10:49:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:38 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:38 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:38 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:38 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:38 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:38 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:41 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:43 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:43 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:49:44 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:45 AM] A conversion error occurred.
+[4/21/2022 10:49:46 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:46 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:47 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:49:48 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:49:48 AM] A conversion error occurred.
+[4/21/2022 10:49:51 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:49:58 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:49:59 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:49:59 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:49:59 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:49:59 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:49:59 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:00 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:00 AM] A conversion error occurred.
+[4/21/2022 10:50:01 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:01 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:01 AM] SQL0104 Token .94 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:01 AM] SQL0104 Token .95 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:01 AM] SQL0104 Token .96 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:02 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:02 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:03 AM] SQL0104 Token .15 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:03 AM] SQL0104 Token .15 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:03 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:05 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:06 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:07 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:08 AM] A conversion error occurred.
+[4/21/2022 10:50:09 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:09 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:10 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:13 AM] A conversion error occurred.
+[4/21/2022 10:50:13 AM] A conversion error occurred.
+[4/21/2022 10:50:14 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:16 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:16 AM] SQL0104 Token .01 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:16 AM] SQL0104 Token .01 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:18 AM] A conversion error occurred.
+[4/21/2022 10:50:19 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:20 AM] A conversion error occurred.
+[4/21/2022 10:50:20 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:20 AM] SQL0104 Token .2012 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:20 AM] SQL0104 Token .94 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:20 AM] SQL0104 Token .95 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:22 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:23 AM] A conversion error occurred.
+[4/21/2022 10:50:24 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:24 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:25 AM] SQL0104 Token .1 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:26 AM] SQL0104 Token .95 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:26 AM] SQL0104 Token .96 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:26 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:27 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:27 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:27 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:27 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:27 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:27 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:27 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:27 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:27 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:28 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:28 AM] A conversion error occurred.
+[4/21/2022 10:50:28 AM] A conversion error occurred.
+[4/21/2022 10:50:30 AM] SQL0104 Token .95 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:36 AM] SQL0104 Token ? was not valid. Valid tokens: <IDENTIFIER>.
+[4/21/2022 10:50:36 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:37 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:38 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:39 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:39 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:40 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:40 AM] A conversion error occurred.
+[4/21/2022 10:50:41 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:41 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:42 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:42 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:42 AM] A conversion error occurred.
+[4/21/2022 10:50:44 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:47 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:47 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:47 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:47 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:48 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:48 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:48 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:48 AM] A conversion error occurred.
+[4/21/2022 10:50:49 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:49 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:49 AM] SQL0104 Token .94 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:49 AM] SQL0104 Token .95 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:49 AM] SQL0104 Token .96 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:49 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:49 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:49 AM] SQL0104 Token .15 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:49 AM] SQL0104 Token .15 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:50 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:51 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:51 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:50:52 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:52 AM] A conversion error occurred.
+[4/21/2022 10:50:52 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:53 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:53 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:55 AM] A conversion error occurred.
+[4/21/2022 10:50:55 AM] A conversion error occurred.
+[4/21/2022 10:50:55 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:57 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:50:57 AM] SQL0104 Token .01 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:57 AM] SQL0104 Token .01 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:50:58 AM] A conversion error occurred.
+[4/21/2022 10:50:59 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:51:00 AM] A conversion error occurred.
+[4/21/2022 10:51:00 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:00 AM] SQL0104 Token .2012 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:51:00 AM] SQL0104 Token .94 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:51:00 AM] SQL0104 Token .95 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:51:01 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:51:01 AM] A conversion error occurred.
+[4/21/2022 10:51:03 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:03 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:03 AM] SQL0104 Token .1 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:51:04 AM] SQL0104 Token .95 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:51:04 AM] SQL0104 Token .96 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:51:04 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:04 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:51:04 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:04 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:04 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:04 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:04 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:04 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:04 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:04 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:05 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:51:05 AM] A conversion error occurred.
+[4/21/2022 10:51:05 AM] A conversion error occurred.
+[4/21/2022 10:51:05 AM] A conversion error occurred.
+[4/21/2022 10:51:06 AM] SQL0104 Token .95 was not valid. Valid tokens: FOR USE SKIP WAIT WITH FETCH LIMIT ORDER UNION EXCEPT OFFSET.
+[4/21/2022 10:51:09 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:10 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/21/2022 10:51:10 AM] SQL0950 Relational database ITSFILE not in relational database directory.
+[4/21/2022 10:51:10 AM] SQL0204 *FIRST in *N type *MEM not found.
+[4/28/2022 10:33:07 AM] SQL0104 Token ; was not valid. Valid tokens: <END-OF-STATEMENT>.
+[4/28/2022 10:33:37 AM] SQL0204 LUMADRV in ITSFILE type *FILE not found.
+[4/28/2022 10:34:13 AM] SQL0104 Token ; was not valid. Valid tokens: <END-OF-STATEMENT>.
+[4/28/2022 10:45:28 AM] SQL0104 Token ; was not valid. Valid tokens: <END-OF-STATEMENT>.
+[4/28/2022 10:45:36 AM] SQL0104 Token ; was not valid. Valid tokens: <END-OF-STATEMENT>.
+[4/28/2022 10:45:54 AM] SQL0104 Token ; was not valid. Valid tokens: <END-OF-STATEMENT>.
+[4/28/2022 10:45:54 AM] SQL0104 Token ; was not valid. Valid tokens: <END-OF-STATEMENT>.
+[4/28/2022 10:45:54 AM] SQL0104 Token ; was not valid. Valid tokens: <END-OF-STATEMENT>.
+[4/28/2022 10:45:54 AM] SQL0104 Token ; was not valid. Valid tokens: <END-OF-STATEMENT>.
+[4/28/2022 10:45:54 AM] SQL0104 Token ; was not valid. Valid tokens: <END-OF-STATEMENT>.
+[4/28/2022 10:45:56 AM] SQL0104 Token ; was not valid. Valid tokens: <END-OF-STATEMENT>.
+[5/5/2022 7:57:05 AM] SQL5016 Qualified object name CETARINV not valid.
+[5/5/2022 10:03:53 AM] SQL5016 Qualified object name CETARINV not valid.
+[5/10/2022 11:53:24 AM] SQL0104 Token DRIVERS was not valid. Valid tokens: FROM INTO.
+[5/10/2022 1:20:44 PM] SQL0204 CWMASTER in IBM_ODBC type *FILE not found.
+[5/10/2022 1:21:10 PM] SQL0204 CWMASTER in ITSFIEL type *FILE not found.
+[5/11/2022 3:06:54 PM] SQL0204 LUMADRVR in ITSFILE type *FILE not found.
+[5/11/2022 3:16:49 PM] SQL0204 LUMADRV in ITSFILE type *FILE not found.
+[5/11/2022 3:32:19 PM] SQL0204 LUMADRV in ITSFILE type *FILE not found.
+[5/17/2022 12:53:37 PM] SQL0204 CETCUSTF in IBM_ODBC type *FILE not found.
+[5/17/2022 12:53:49 PM] SQL0204 DRVTRKXF in IBM_ODBC type *FILE not found.
+[6/1/2022 10:50:50 AM] SQL0204 OOMTRTERR in IBM_ODBC type *FILE not found.
+[6/1/2022 10:58:57 AM] SQL0204 OOMTRTERR in IBM_ODBC type *FILE not found.
+[6/1/2022 11:08:47 AM] SQL0199 Keyword ORDER not expected. Valid tokens: < > = <> <= !< !> != >= ¬< ¬> ¬= IN NOT.
+[6/1/2022 11:09:02 AM] SQL0199 Keyword ORDER not expected. Valid tokens: < > = <> <= !< !> != >= ¬< ¬> ¬= IN NOT.
+[1/25/2023 9:26:07 AM] SQL0204 EDMAST in ITSFILE type *FILE not found.
+[6/5/2023 11:18:11 AM] SQL0204 DMQ_OUT in IBM_ODBC type *FILE not found.
+[6/6/2023 8:40:25 AM] Exception of type 'System.OutOfMemoryException' was thrown.
+[6/6/2023 9:03:42 AM] SQL0204 DMQ_OUT in IBM_ODBC type *FILE not found.
+[7/6/2023 2:31:01 PM] SQL0204 DRIVERS in IBM_ODBC type *FILE not found.
+[7/26/2023 9:03:32 AM] SQL0204 DRIVERS in IBM_ODBC type *FILE not found.
+[7/26/2023 9:08:01 AM] SQL0204 DRIVERS in IBM_ODBC type *FILE not found.
+[8/1/2023 8:25:50 AM] SQL0204 RVABREP in IBM_ODBC type *FILE not found.
+[8/1/2023 8:26:04 AM] SQL0204 RVABREP in ITSFILE type *FILE not found.
+[8/14/2023 12:28:21 PM] The ConnectionString property is invalid.
+[8/14/2023 12:28:21 PM] The ConnectionString property is invalid.
+[8/14/2023 12:31:07 PM] The ConnectionString property is invalid.
